@@ -1,0 +1,6 @@
+2			// YOU MUST DELE ALL COMENT "//" !!! --- THis line is for the number of inputs (0,1) for exemple
+3          // --- THis line is for the number of states (1,2,3) or (q0,q1,q2)
+3			// This is which are the final states so, (3) or (q2) or (3,2)... ALWAYS IN NUMBER!!!
+1 1,2 1			// Stating here, this is our state transition table/matrix, each column is separated by a SPACE
+2 - 3			// IF you want to describe NULL -> "-"
+3 3 3
